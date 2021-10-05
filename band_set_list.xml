@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="xml_display.css"?>
+
+<songs>
+    <heading>Band Set List</heading>
+    <song>
+        <title>Butter</title>
+        <artist>BTS</artist>
+        <genre>Pop</genre>
+        <release_year>2021</release_year>
+    </song>
+
+    <song>
+        <title>Been Like This</title>
+        <artist>Doja Cat</artist>
+        <genre>Pop</genre>
+        <release_year>2021</release_year>
+    </song>
+
+    <song>
+        <title>Don't Stop Me Now</title>
+        <artist>Queen</artist>
+        <genre>Rock</genre>
+        <release_year>1979</release_year>
+    </song>
+
+    <song>
+        <title>Summer</title>
+        <artist>BROCKHAMPTON</artist>
+        <genre>Slow Pop</genre>
+        <release_year>2021</release_year>
+    </song>
+
+    <song>
+        <title>Dancing in the Moonlight</title>
+        <artist>King Harvest</artist>
+        <genre>Rock</genre>
+        <release_year>1996</release_year>
+    </song>
+
+    <song>
+        <title>Lover's Rock</title>
+        <artist>TV Girl</artist>
+        <genre>Indie Pop</genre>
+        <release_year>2014</release_year>
+    </song>
+
+   <song>
+        <title>Mykonos</title>
+        <artist>Fleet Foxes</artist>
+        <genre>Indie Rock</genre>
+        <release_year>2008</release_year>
+    </song>
+
+   <song>
+        <title>Boom</title>
+        <artist>DPR Live</artist>
+        <genre>Hip Hoop</genre>
+        <release_year>2021</release_year>
+    </song>
+
+   <song>
+        <title>Maybe She</title>
+        <artist>Still Woozy</artist>
+        <genre>Indie Pop</genre>
+        <release_year>2019</release_year>
+    </song>
+
+   <song>
+        <title>good 4 u</title>
+        <artist>Olivia Rodrigo</artist>
+        <genre>Pop Rock</genre>
+        <release_year>2021</release_year>
+    </song>
+
+</songs>
